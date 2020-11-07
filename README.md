@@ -4,7 +4,7 @@
 
 ## What i learned
 
-- NestJS는 expreess 기반 Framework
+- NestJS는 express 기반 Framework
 - 강의를 보고 따라하면서 Spring Framework와 많이 비슷하다고 느낌.
 - Nest-cli를 통해 프로젝트 기초 세팅이 편하게 되어 있음.
 - jest는 사용해 본적이 없는데 테스트도 편하게 프레임워크에서 제공
